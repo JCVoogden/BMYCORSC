@@ -1,0 +1,15 @@
+{
+  "type" : "PGM",
+  "name" : "SADELIA",
+  "description" : "SADELIA",
+  "creationDate" : "2005-09-05 11:58:21",
+  "updateDate" : "2012-07-19 13:49:35",
+  "visibility" : "PRIVATE",
+  "ibmName" : "SADEL",
+  "programType" : "B",
+  "sourceType" : "SADELIA",
+  "layoutCode" : "SADEL",
+  "level2GenType" : 1,
+  "level2DatabaseGenMode" : "DEFAULT",
+  "manageHistoryButtons" : " "
+}

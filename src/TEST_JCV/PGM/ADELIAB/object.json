@@ -1,0 +1,14 @@
+{
+  "type" : "PGM",
+  "name" : "ADELIAB",
+  "description" : "ADELIAB",
+  "creationDate" : "2008-07-03 15:16:05",
+  "updateDate" : "2011-07-05 16:03:42",
+  "visibility" : "PRIVATE",
+  "ibmName" : "ADELIABATC",
+  "programType" : "B",
+  "sourceType" : "ADELIA",
+  "layoutCode" : "ADELIA",
+  "level2GenType" : 1,
+  "level2DatabaseGenMode" : "NATIVE"
+}

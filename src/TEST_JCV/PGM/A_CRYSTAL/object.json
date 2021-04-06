@@ -1,0 +1,14 @@
+{
+  "type" : "PGM",
+  "name" : "A_CRYSTAL",
+  "description" : "A_CRYSTAL",
+  "creationDate" : "2011-02-21 16:44:26",
+  "updateDate" : "2011-02-21 16:45:58",
+  "visibility" : "PRIVATE",
+  "ibmName" : "CRYSTA",
+  "programType" : "B",
+  "sourceType" : "VADELIA",
+  "layoutCode" : "CRYSTA",
+  "level2GenType" : 1,
+  "level2DatabaseGenMode" : "DEFAULT"
+}
