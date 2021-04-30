@@ -1,6 +1,9 @@
 *ROW_METADATA(ADELIA                 )DEBUT_PGM
 *ROW_METADATA(ADELIA         20081217)   DEBUT_DECL
-*ROW_METADATA(ADELIA         20210406)      * TEST2
+*ROW_METADATA(ADELIA         20210430)      * ---------------
+*ROW_METADATA(ADELIA         20210430)      * TEST2
+*ROW_METADATA(ADELIA         20210430)      * ---------------
+*ROW_METADATA(ADELIA         20210430)      
 *ROW_METADATA(ADELIA         20210406)      alpha(10) tablealp(10)
 *ROW_METADATA(ADELIA         20110331)      
 *ROW_METADATA(ADELIA         20110331)      timestamp ts
